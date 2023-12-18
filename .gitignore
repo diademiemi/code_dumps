@@ -1,0 +1,4 @@
+# Nextcloud Deck -> Obsidian
+nextcloud-deck-obsidian-migration/*.md
+!nextcloud-deck-obsidian-migration/README.md
+nextcloud-deck-obsidian-migration/Cards/**
